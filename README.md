@@ -4,6 +4,9 @@
 
 Push/worker pattern for microservices using RabbitMQ.
 
+See also:
+- [mq-connection](https://github.com/philcockfield/mq-connection)
+- [mq-pubsub](https://github.com/philcockfield/mq-pubsub)
 
 
 
