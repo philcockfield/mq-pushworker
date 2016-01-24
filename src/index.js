@@ -1,1 +1,2 @@
-console.log("\nStarted [mq-pushworker]\n\n");
+import log from './log';
+log.info('\nStarted [mq-pushworker]\n\n');
