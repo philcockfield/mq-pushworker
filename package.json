@@ -1,6 +1,6 @@
 {
   "name": "mq-pushworker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Push/worker pattern for microservices using RabbitMQ.",
   "main": "./lib/index.js",
   "scripts": {
